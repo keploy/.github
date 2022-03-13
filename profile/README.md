@@ -1,7 +1,7 @@
 # Welcome to Keploy 👋
 
 <p style="text-align:center;" align="center">
-  <img align="center" src="/profile/open-horizon-color.png" height="30%" width="30%" />
+  <img align="center" src="/profile/logo.png" height="30%" width="30%" />
 </p>
 
 [![Slack](https://img.shields.io/badge/slack-@keyploy--slack-yellow.svg)](https://join.slack.com/t/keploy/shared_invite/zt-12rfbvc01-o54cOG0X1G6eVJTuI_orSA)
