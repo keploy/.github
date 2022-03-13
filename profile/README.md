@@ -1,7 +1,7 @@
 # Welcome to Keploy 👋
 
 <p style="text-align:center;" align="center">
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/92252339?s=200&v=4" width="100px;" alt=""/></a> 
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/92252339?s=200&v=4" width="200px;" alt=""/></a> 
       </td>
 </p>
 
