@@ -11,8 +11,10 @@
   •
   <a href="https://www.linkedin.com/company/keploy/">LinkedIN</a>
   •
-  <a href="https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg">Youtube</a>
+  <a href="https://twitter.com/Keployio">Twitter</a>
   •
+  <a href="https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg">Youtube</a>
+  
 </h3>
 
 [Keyploy](https://keploy.io/) is a no-code testing platform that generates tests from API calls. It converts API calls into testcases. Mocks are automatically generated with the actual request/responses.
