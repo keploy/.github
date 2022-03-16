@@ -27,7 +27,7 @@
 - [Keyploy](https://github.com/keploy/keploy) : No code API testing platform. Create unit tests and data mocks from API calls.
 - [go-sdk](https://github.com/keploy/go-sdk) : Client SDK for Keploy API Platform. No Code API testing using production traffic.
 - [UI](https://github.com/keploy/ui) : UI for Keploy platform that does API testing by dependency mocking without writing any test cases.
-- [example-url-shortener](https://github.com/keploy/example-url-shortener) : Sample application to understand keploy integration.
+- [samples-go](https://github.com/keploy/samples-go) : Sample application to understand keploy integration.
 
 <br>
 
