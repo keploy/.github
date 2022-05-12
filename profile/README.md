@@ -15,6 +15,8 @@
   <a href="https://twitter.com/Keployio">Twitter</a>
   •
   <a href="https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg">Youtube</a>
+  •
+  <a href="https://discord.gg/jdTCGQFFw3">Discord</a>
   
 </h3>
 
