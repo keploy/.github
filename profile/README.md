@@ -21,16 +21,20 @@
   
 </h3>
 
-[Keploy](https://keploy.io/) is a no-code testing platform that generates tests from API calls. It converts API calls into testcases. Mocks are automatically generated with the actual request/responses.
+[Keploy](https://keploy.io/) generates tests cases and data mocks from API calls.
 
-### 🏂 Haven't tried Keploy yet? Below is a list of the most **important repositories**
 
-<br>
+## Resources
 
-- [Keploy](https://github.com/keploy/keploy) : No code API testing platform. Create unit tests and data mocks from API calls.
-- [go-sdk](https://github.com/keploy/go-sdk) : Client SDK for Keploy API Platform. No Code API testing using production traffic.
-- [UI](https://github.com/keploy/ui) : UI for Keploy platform that does API testing by dependency mocking without writing any test cases.
-- [samples-go](https://github.com/keploy/samples-go) : Sample application to understand keploy integration.
+📖 [Docs](https://docs.keploy.io/) - See Installation, Contribution, QuickStart, Usage Guide
+
+⚙️ [Keploy Server](https://github.com/keploy/keploy), [Keploy UI](https://github.com/keploy/ui)
+
+🧩️ [Go Samples](https://github.com/keploy/samples-go), [Java Samples](https://github.com/keploy/samples-java)
+
+🕵️‍️ [Go](https://github.com/keploy/go-sdk), [Java](https://github.com/keploy/java-sdk), [Typescript](https://github.com/keploy/typescript-sdk) SDKs
+
+🔌 [Selenium Plugin](https://github.com/keploy/browser-extension) - Browser extension to record and replay API calls made from web apps
 
 <br>
 
