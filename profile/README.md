@@ -1,3 +1,4 @@
+
 # Welcome to Keploy 👋
 
 <p style="text-align:center;" align="center">
@@ -33,4 +34,7 @@
 
 <br>
 
+# Stats
+
+![Metrics](./github-metrics.svg)
 
