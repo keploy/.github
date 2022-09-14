@@ -10,7 +10,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Header
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -20,6 +21,51 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
+          base: repositories
+          plugin_followup: yes
+          plugin_followup_archived: no
+          user: keploy
+      - name: Keploy-Repo
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors1.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          repo: keploy
+          plugin_people: yes
+          plugin_people_types: contributors
+          user: keploy
+      - name: UI-Repo
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          repo: ui
+          plugin_people: yes
+          plugin_people_types: contributors
+          user: keploy
+      - name: Go-SDK Repo
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors3.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          repo: go-sdk
+          plugin_people: yes
+          plugin_people_types: contributors
+          user: keploy
+      - name: Docs Repo
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors4.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          repo: docs
+          plugin_people: yes
+          plugin_people_types: contributors
           user: keploy
