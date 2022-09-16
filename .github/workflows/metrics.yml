@@ -13,6 +13,7 @@ jobs:
       - name: Header
         uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
