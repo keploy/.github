@@ -42,3 +42,16 @@
 
 ![Metrics](./github-metrics.svg)
 
+# Notable Contributors
+
+### Keploy
+![Keploy](./metrics.plugin.contributors1.svg)
+
+### UI
+![UI](./metrics.plugin.contributors2.svg)
+
+### Go-SDK
+![Go-SDK](./metrics.plugin.contributors3.svg)
+
+### Docs
+![Docs](./metrics.plugin.contributors4.svg)
