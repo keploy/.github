@@ -22,11 +22,30 @@
 </h3> -->
 <h5 align="center">
 
-[Keploy](https://keploy.io/) is a next-gen E2E testing tool that provides an easy way to capture and generate tests(KTests) and data-mocks(KMocks) from real API calls.
+[Keploy](https://keploy.io/) is a next-gen E2E testing tool that provides an easy way to capture and generate tests(KTests) and data-mocks(KMocks) from real API calls. Keploy not only records API calls, but also records database calls and replays them during testing, making it easy to use, powerful, and extensible.
+
+## 👨‍💻 Do you know about Keploy-gen?
+
+Keploy-gen is world's first unit test generator implementation of [Meta LLM research paper](https://arxiv.org/pdf/2402.09171), it understands code semantics and generates meaningful unit tests, aiming to:
+
+- Automate unit test generation (UTG): Quickly generate comprehensive unit tests and reduce the  redundant manual effort.
+
+- Improve edge cases: Extend and improve the scope of tests to cover more complex scenarios that are often missed manually.
+
+- Boost test coverage: As codebase grows, ensuring exhaustive coverage should become feasible.
+
 
 </h5>
 
 <br>
+
+## Learn About Keploy 🧑‍🎓
+
+- Learn how to build with keploy through the keploy [Docs](https://keploy.io/docs/)
+- Find tutorials and blogs at [Keploy blog](https://keploy.io/blog)
+- View our video content at [Keploy Youtube Channel](https://www.youtube.com/@keploy)
+
+## Connect With Us 👥
 
 <p align="center">
   <a href="https://twitter.com/keployio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -49,7 +68,7 @@
 
 <br>
 
-# GitHub Stats
+## GitHub Stats 🧑🏻‍💻
 
 <p align="center">
     <img width="500" src="../github-metrics.svg" alt="GitHub Stats">
