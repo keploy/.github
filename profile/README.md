@@ -52,6 +52,6 @@
 # GitHub Stats
 
 <p align="center">
-    <img width="500" src="./github-metrics.svg" alt="GitHub Stats">
+    <img width="500" src="../github-metrics.svg" alt="GitHub Stats">
 </p>
 
