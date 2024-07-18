@@ -3,7 +3,7 @@
 | Name            | Activity                                                                                                          | Points |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | ------ |
 | Swapnoneel Saha | Issue: [#1844](https://github.com/keploy/keploy/issues/1844), PR: [#384](https://github.com/keploy/docs/pull/384) | 2      |
-|                 |                                                                                                                   |        |
+| Yaten Dhingra                | Issue: [#2074](https://github.com/keploy/keploy/issues/2074), PR: [#49](https://github.com/keploy/website/pull/49) |    4    |
 |                 |                                                                                                                   |        |
 |                 |                                                                                                                   |        |
 |                 |                                                                                                                   |        |
