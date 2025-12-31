@@ -7,7 +7,7 @@
 <h1 align="center"> Welcome to Keploy 👋 </h1>
 
 <!-- <h3 align="center">
-  <b><a href="https://join.slack.com/t/keploy/shared_invite/zt-12rfbvc01-o54cOG0X1G6eVJTuI_orSA">Slack</a></b>
+  <b><a href="https://join.slack.com/t/keploy/shared_invite/zt-357qqm9b5-PbZRVu3Yt2rJIa6ofrwWNg">Slack</a></b>
   •
   <a href="https://github.com/keploy">Github</a>
   •
@@ -20,7 +20,7 @@
   <a href="https://discord.gg/jdTCGQFFw3">Discord</a>
   
 </h3> -->
-<h5 align="center">
+<h5 align="center">`
 
 [Keploy](https://keploy.io/) is a next-gen E2E testing tool that provides an easy way to capture and generate tests(KTests) and data-mocks(KMocks) from real API calls.
 
@@ -35,7 +35,7 @@
   	&nbsp;
    <a href="https://community.keploy.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-0A0A0A.svg?style=for-the-badge&logo=rss&logoColor=white"></a>
   	&nbsp;
-   <a href="https://join.slack.com/t/keploy/shared_invite/zt-23foxf3k0-zcsxyOHLMt40K1RCUsefkA" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+   <a href="https://join.slack.com/t/keploy/shared_invite/zt-357qqm9b5-PbZRVu3Yt2rJIa6ofrwWNg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
   	&nbsp;
    <a href="https://docs.keploy.io" target="_blank"><img src="https://img.shields.io/badge/Documentation-FF914D?style=for-the-badge&logo=mdnwebdocs&logoColor=white"></a>
   	&nbsp;
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[<kbd><br><b> ⭐ Star and try Out Keploy ➜ </b><br></kbd>](https://keploy.io) [<kbd><br><b> 👥 Join our Keploy Community ➜ </b><br></kbd>](https://join.slack.com/t/keploy/shared_invite/zt-23foxf3k0-zcsxyOHLMt40K1RCUsefkA)
+[<kbd><br><b> ⭐ Star and try Out Keploy ➜ </b><br></kbd>](https://keploy.io) [<kbd><br><b> 👥 Join our Keploy Community ➜ </b><br></kbd>](https://join.slack.com/t/keploy/shared_invite/zt-357qqm9b5-PbZRVu3Yt2rJIa6ofrwWNg)
 
 </div>
 
