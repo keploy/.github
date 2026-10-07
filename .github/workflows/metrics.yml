@@ -14,14 +14,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Note: To fetch organization-wide metrics without NaN errors, set a Personal Access Token (PAT)
+          # with scopes: `read:org`, `read:user`, `repo` as repository secret `METRICS_TOKEN`.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: repositories
           plugin_followup: yes
           plugin_followup_archived: no
